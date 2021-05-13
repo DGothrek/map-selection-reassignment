@@ -9,3 +9,5 @@ I included a save/load function that enables stopping at some point and restarti
 This example scales to up to 100,000 points at the same time.
 
 Colors can be edited from the `data/colors.js` file.
+
+![DemoImage](/assets/DemoImage.png)
