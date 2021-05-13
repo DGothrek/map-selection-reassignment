@@ -10,4 +10,4 @@ This example scales to up to 100,000 points at the same time.
 
 Colors can be edited from the `data/colors.js` file.
 
-![DemoImage](/assets/DemoImage.png)
+![DemoImage](DemoImage.png)
